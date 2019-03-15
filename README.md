@@ -5,7 +5,7 @@
 ![Design](https://github.com/AustinEnglish/ToDoApp/blob/master/Screen%20Shot%202019-03-15%20at%202.56.05%20PM.png?raw=true "categories")
 
 ## Task Page
-![cipher pages](https://github.com/AustinEnglish/ToDoApp/blob/master/Screen%20Shot%202019-03-15%20at%202.56.23%20PM.png?raw=true "tasks")
+![tasks](https://github.com/AustinEnglish/ToDoApp/blob/master/Screen%20Shot%202019-03-15%20at%202.56.23%20PM.png?raw=true "tasks")
 
 ## Add tasks
-![cipher pages](https://github.com/AustinEnglish/Ceasar-Cipher/blob/master/Screen%20Shot%202019-02-02%20at%2012.27.55%20PM.png?raw=true "Title")
+![add tasks](https://github.com/AustinEnglish/ToDoApp/blob/master/Screen%20Shot%202019-03-15%20at%202.56.34%20PM.png?raw=true "add")
